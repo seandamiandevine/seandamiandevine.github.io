@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassandra Neumann | Sean Devine</title>
+    <link>https://seandevine.github.io/author/cassandra-neumann/</link>
+      <atom:link href="https://seandevine.github.io/author/cassandra-neumann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cassandra Neumann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>(C) 2020</copyright><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://seandevine.github.io/images/icon_hu562ae1936b53b159d5199f2e51c71526_43664_512x512_fill_lanczos_center_2.png</url>
+      <title>Cassandra Neumann</title>
+      <link>https://seandevine.github.io/author/cassandra-neumann/</link>
+    </image>
+    
+    <item>
+      <title>Seizing the Opportunity: Lifespan Age Differences in the Effects of the Opportunity Cost of Time on Cognitive Control</title>
+      <link>https://seandevine.github.io/publication/oppcost/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://seandevine.github.io/publication/oppcost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Ageing is Associated with More Rigid Concept Spaces</title>
+      <link>https://seandevine.github.io/publication/piccoa-preprint/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://seandevine.github.io/publication/piccoa-preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence-induced Concept Change in Older Adults at Cogsci2020</title>
+      <link>https://seandevine.github.io/talk/cogsci2020/</link>
+      <pubDate>Sat, 01 Aug 2020 09:00:00 +0000</pubDate>
+      <guid>https://seandevine.github.io/talk/cogsci2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence-induced Concept Change in Older Adults</title>
+      <link>https://seandevine.github.io/publication/cogsci2020-proceedings/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://seandevine.github.io/publication/cogsci2020-proceedings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
