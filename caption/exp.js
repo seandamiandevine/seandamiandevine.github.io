@@ -99,7 +99,8 @@ var ending = {
 
       if(won_game) {
         html = "<audio controls autoplay><source src='stim/accidentally_in_love.mp3' type='audio/mpeg'></audio>";
-        html += "<p>You win! Here's your prize: you get to see this pic of a very pretty girl. Isn't she pretty?</p>"
+        html += `<p>You win! You beat the game in <b>${TIME_LIMIT-time_left} seconds</b>! Comment your results on the Facebook picture.</p>`
+        html += "<p>Here's your prize: you get to see this pic of a very pretty girl. Isn't she pretty?</p>"
         html += "<img src='stim/bb.jpg' width='600' height='600'>"
       } else {
         html = "<audio controls autoplay><source src='stim/hurt.mp3' type='audio/mpeg'></audio>";
