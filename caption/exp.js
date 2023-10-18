@@ -3,11 +3,11 @@
 // ****************************************************************************
 
 
-const N_CLICKS    = 100; 
-const TIME_LIMIT  = 100; 
-const MOVE_N      = 25;
-const SIZE_N      = 50;
-const FAKE_N      = 75;
+const N_CLICKS    = 100; // number of clicks to win
+const TIME_LIMIT  = 120; // time limit in seconds
+const MOVE_N      = 25;  // how many clicks until button starts moving around
+const SIZE_N      = 50;  // how many clicks until button starts changing sizes
+const FAKE_N      = 75;  // how many clicks until fake button appears
 
 // ****************************************************************************
 // *                                  Trials                                  *
